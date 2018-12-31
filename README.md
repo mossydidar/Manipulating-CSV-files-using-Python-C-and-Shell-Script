@@ -29,7 +29,7 @@ Python is considered to be cleaner and more direct, with emphasis code readabili
 On the other hand, Shell script is quite ambiguous. In terms of readability, in the problem that
 has given in assignment, C++ is likely to be more readable than shell script but not more than
 python.
-# Writability:
+## Writability:
 Python strikes a good balance between fast compilation, readability and
 writability. C++ is a statically typed, free-form, multi-paradigm and a compiled programming
 language. In terms of writability, Shell script is ahead of the other two hands down. It takes very
